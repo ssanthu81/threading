@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/inheritance/threading/bin/Debug/net6.0/threading
+/Users/denashivanandareddypitta/Projects/inheritance/threading/bin/Debug/net6.0/threading.deps.json
+/Users/denashivanandareddypitta/Projects/inheritance/threading/bin/Debug/net6.0/threading.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/inheritance/threading/bin/Debug/net6.0/threading.dll
+/Users/denashivanandareddypitta/Projects/inheritance/threading/bin/Debug/net6.0/threading.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.dll
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/refint/threading.dll
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/threading.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/inheritance/threading/obj/Debug/net6.0/ref/threading.dll
